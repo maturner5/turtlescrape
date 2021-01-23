@@ -16,7 +16,7 @@ Right now this project only has one function: turtlescrape().
 
 To call it simply
 ```python
-import turtlescrape as turtlescrape
+from turtlescrape import turtlescrape
 
 turtlescrape(url, *args, **kwargs)
 ```
