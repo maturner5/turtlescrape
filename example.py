@@ -1,5 +1,5 @@
 # this is an example of how to use turtlescrape :)
-from turtlescrape import turtlescrape
+from __init__ import turtlescrape
 
 url = 'https://www.marketwatch.com/investing/stock/tsla?mod=quote_search'
 
