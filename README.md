@@ -24,3 +24,4 @@ Look at the example project in order to get a feel for it.
 
 ## Notice
 This project is most definetly broken in ways. But we all start somewhere, so input is definetly appreciated.
+Not all websites let you scrape them. I have yet to figure out a workaround for that problem so in the meantime this code just throws up an error.
