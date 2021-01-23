@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="turtlescrape",
-    version="1.0.0",
+    version="1.0.1",
     author="Matt Turner",
     author_email="demexus2@gmail.com",
     description="A simple library used to make web scraping take up less lines"
